@@ -1,0 +1,9 @@
+{
+  "name": "Screenedit",
+  "description": "Launch screenedit directly from topbar",
+  "uuid": "screenedit@bbhtt.github.io",
+  "url": "https://github.com/bbhtt/gnome-screenshort-cut-extension",
+  "shell-version": [
+    "47"
+  ]
+}
